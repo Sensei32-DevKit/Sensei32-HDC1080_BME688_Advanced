@@ -133,6 +133,7 @@ We would like to acknowledge the assistance of [G6EJD][G6EJD_H] that has inspire
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [arduesp]: <https://www.hackster.io/abdularbi17/how-to-install-esp32-board-in-arduino-ide-1cd571>
+   [CCube]: <https://github.com/closedcube/ClosedCube_HDC1080_Arduino>
    [bsec]: <https://github.com/BoschSensortec/BSEC-Arduino-library>
    [G6EJD_H]: <http://g6ejd.dynu.com> 
    [WEMOS]: <https://wiki.geekworm.com/index.php/WEMOS_ESP32_Board_with_18650_Battery_Holder>
